@@ -1,0 +1,33 @@
+.header_div{
+    background: cornsilk;
+    color: darkorange;
+}
+body{
+    background: greenyellow;
+}
+.header_div img{
+    width:100px;
+
+}
+
+.main_div{
+    background: rgb(128, 252, 128);
+    padding:10px;
+    margin-top: 15px;
+    border: 3px solid red;
+    
+}
+
+.footer_div img{
+    width: 100px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: darkgrey;
+    bottom: 0;
+    width: 100%;
+    background-color: floralwhite;
+    line-height: 3;
+    text-align: center;
+}
